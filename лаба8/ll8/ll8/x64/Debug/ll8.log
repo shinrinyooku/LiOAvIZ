@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\ll8\ll8\main.cpp(60,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ll8.vcxproj -> C:\Users\Administrator\Desktop\ll8\x64\Debug\ll8.exe
