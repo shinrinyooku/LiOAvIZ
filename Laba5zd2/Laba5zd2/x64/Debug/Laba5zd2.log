@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\Laba5zd2\Laba5zd2\main.c(81,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba5zd2.vcxproj -> C:\Users\Administrator\Desktop\Laba5zd2\x64\Debug\Laba5zd2.exe
