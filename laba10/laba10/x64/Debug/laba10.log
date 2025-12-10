@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\laba10\laba10\main.cpp(96,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Administrator\Desktop\laba10\laba10\main.cpp(83,15): warning C4101: current: неиспользованная локальная переменная
+  laba10.vcxproj -> C:\Users\Administrator\Desktop\laba10\x64\Debug\laba10.exe
