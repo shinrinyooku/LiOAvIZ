@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Administrator\source\repos\lb7\lb7\main.c(32,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lb7.vcxproj -> C:\Users\Administrator\source\repos\lb7\x64\Debug\lb7.exe
